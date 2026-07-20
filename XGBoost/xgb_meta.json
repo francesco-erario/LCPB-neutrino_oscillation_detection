@@ -1,0 +1,1 @@
+{"feature_cols": ["Ed", "delta_x", "delta_y", "delta_z", "edist", "dist_wall_p", "dist_wall_d", "dist_wall_h_p", "dist_wall_h_d", "edist_over_r", "delta_r", "delta_theta", "delta_t", "diffusion", "ds2"]}
